@@ -34,5 +34,6 @@ An AI assistant built with OpenClaw. It runs on an Ubuntu 24.04 server (AWS EC2)
 - Secrets (bot token, API keys, OAuth client file, tokens) are NOT stored in this repository.
 - Gmail access uses OAuth in testing mode, so only added test users can sign in.
 
-  <img width="572" height="465" alt="image" src="https://github.com/user-attachments/assets/36458581-8dea-4cd5-8f8e-5210abc492c3" />
+ <img width="565" height="126" alt="image" src="https://github.com/user-attachments/assets/ddf18eae-6ae4-4a33-a2d4-95ee8942a15b" />
+
 
